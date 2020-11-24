@@ -13,3 +13,4 @@ swimming_behavior <- select(stingray, Sex, Swimming.50.Hz, Swimming.90.Hz, Swimm
 
 # run ggplot
 library(ggplot2)
+
